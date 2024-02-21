@@ -1,0 +1,15 @@
+/* assets/css/global.css */
+
+/* Add your global styles here */
+
+body {
+    font-family: "Abhaya Libre";
+    background-color: rgb(84, 80, 80);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+  }
+  
+  /* Add more global styles as needed */
+  
